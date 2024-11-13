@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 ## Proje İçeriği
 
-Bu projenin demo sayfasına bu [https://gulsahunal.github.io/ilgiAlanlari](link) üzerinden ulaşılabilir.
+Bu projenin demo sayfasına [buradan](https://gulsahunal.github.io/ilgiAlanlari) üzerinden ulaşılabilir.
 
 ## Contributing
 
